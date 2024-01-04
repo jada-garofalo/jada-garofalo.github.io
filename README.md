@@ -1,1 +1,1 @@
-# jada-garofalo.github.io source
+# this is the source information for my personal Github Pages website
