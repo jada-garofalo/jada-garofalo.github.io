@@ -1,11 +1,7 @@
-html {
-  height: 2000px
-}
-
-body {
+html, body {
+  display: flex;
   margin: 20px;
   height: 100%;
-  overflow: scroll;
   align-items: center;
   justify-content: center;
 }
