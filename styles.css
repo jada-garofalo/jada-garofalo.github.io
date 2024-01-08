@@ -2,7 +2,7 @@ html, body {
   display: flex;
   overflow: scroll;
   height: 100%;
-  margin: 50px;
+  margin: 0px;
   align-items: center;
   justify-content: center;
 }
