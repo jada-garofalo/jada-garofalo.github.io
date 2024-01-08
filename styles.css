@@ -1,8 +1,8 @@
 html, body {
   display: flex;
   overflow: scroll;
+  margin: auto;
   height: 100%;
-  margin: 0px;
   align-items: center;
   justify-content: center;
 }
