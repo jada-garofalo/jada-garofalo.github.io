@@ -1,7 +1,7 @@
 html, body {
   display: flex;
-  overflow: scroll;
-  margin: auto;
+  overflow: auto;
+  margin: 100px;
   height: 100%;
   align-items: center;
   justify-content: center;
