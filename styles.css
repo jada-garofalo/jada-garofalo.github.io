@@ -1,10 +1,7 @@
 html {
   display: flex;
   overflow: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: 40px;
-  margin-left: 40px;
+  margin: auto;
   height: auto;
   align-items: center;
   justify-content: center;
@@ -13,11 +10,7 @@ html {
 body {
   display: flex;
   overflow: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: 40px;
-  margin-left: 40px;
-  height: 100%;
+  margin: auto;
   align-items: center;
   justify-content: center;
 }
