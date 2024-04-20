@@ -29,8 +29,16 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+h1 {
+  color: #454545;
+}
+
 h2 {
   color: #BA68C8;
+}
+
+h3 {
+  color: #454545;
 }
 
 img {
